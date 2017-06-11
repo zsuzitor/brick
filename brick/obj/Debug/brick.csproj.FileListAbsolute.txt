@@ -1,0 +1,10 @@
+C:\csharp\brick\brick\brick\bin\Debug\brick.exe.config
+C:\csharp\brick\brick\brick\bin\Debug\brick.exe
+C:\csharp\brick\brick\brick\bin\Debug\brick.pdb
+C:\csharp\brick\brick\brick\obj\Debug\brick.csprojResolveAssemblyReference.cache
+C:\csharp\brick\brick\brick\obj\Debug\brick.Form1.resources
+C:\csharp\brick\brick\brick\obj\Debug\brick.game_br.resources
+C:\csharp\brick\brick\brick\obj\Debug\brick.Properties.Resources.resources
+C:\csharp\brick\brick\brick\obj\Debug\brick.csproj.GenerateResource.Cache
+C:\csharp\brick\brick\brick\obj\Debug\brick.exe
+C:\csharp\brick\brick\brick\obj\Debug\brick.pdb
